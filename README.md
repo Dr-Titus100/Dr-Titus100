@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Titus Nyarko Nde
-- I am a Computing Ph.D. student with an emphasis in Data Science.
+- I am a Computing Ph.D. student with an emphasis in Data Science at Boise State University.
 - I look forward to becoming a researcher in Data Science and building a strong network of researchers who will champion Data Science and its applications.
 - My Ph.D. research focuses on the application of Machine Learning in Cosmology.
 - 👀 I also have a background in statistics, Actuarial Mathematics, and Financial Mathematics.
